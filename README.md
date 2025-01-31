@@ -148,7 +148,7 @@ The project report provides a detailed analysis of the results, including model 
 
 1. Clone the repository to your local machine:
    
-   git clone [<repository-url>](https://github.com/NarongritPararmard/Study-of-gold-price-prediction-and-factors-affecting-gold-prices.git)
+   git clone (https://github.com/NarongritPararmard/Study-of-gold-price-prediction-and-factors-affecting-gold-prices.git)
 
 2. Install required Python libraries:
 
