@@ -140,7 +140,6 @@ The goal of this study is to explore the relationships between gold prices and k
 The project report provides a detailed analysis of the results, including model performance, accuracy, and key insights. For a comprehensive overview, please refer to the project documentation.
 
 - **Full Report**: [Project Report](https://drive.google.com/file/d/1VL7JX6_2vZgqI7RkXEvuKyW_5S_Jv7_n/view?usp=share_link)
-- **Presentation Slides**: [Project Presentation](./presentation-slide.pdf)
 
 ---
 
